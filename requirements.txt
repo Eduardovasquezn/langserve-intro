@@ -1,0 +1,3 @@
+langchain
+langserve[all]
+python-dotenv
